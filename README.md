@@ -1,2 +1,3 @@
-# aplicacao-css-grid
-Simples aplicação do básico do CSS Grid para futuras aplicações.
+# CSS Grid App
+
+Applying CSS Grid to future applications.
